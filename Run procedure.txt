@@ -1,0 +1,11 @@
+opass developed in jdk1.6.14 & tomcat 5.5
+
+place webapps code\opass folder in tomcat webapps
+
+place opassserver in C driver
+
+install 2 android apk files in your android mobile phone.(Mobilecode folder)
+
+deploy database , start tomcat server, start opass server
+
+register from your android mobile. next open tomcat application in browser give username, url, and give your long term password from your mobile phone. then enter received otp in web application

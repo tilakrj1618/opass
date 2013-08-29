@@ -1,0 +1,25 @@
+<web-app>
+
+	<welcome-file-list>
+		<welcome-file>GetUsername.jsp</welcome-file>
+	</welcome-file-list>
+<!--sender login-->
+	<servlet>
+<servlet-name>VerifyUser</servlet-name>
+<servlet-class>VerifyUser</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>VerifyUser</servlet-name>
+<url-pattern>/VerifyUser</url-pattern>
+</servlet-mapping>
+
+	<servlet>
+<servlet-name>verifyOTP</servlet-name>
+<servlet-class>verifyOTP</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>verifyOTP</servlet-name>
+<url-pattern>/verifyOTP</url-pattern>
+</servlet-mapping>
+
+</web-app>
