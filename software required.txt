@@ -1,0 +1,6 @@
+1.	Apache tomcat 5.5.27
+2.	jdk 6.14
+3.	sqlyog
+4.	Hyperterminal for windows 7
+5.	Drivers for GSM Modam CH341SER
+6.	Setup.exe
